@@ -1,2 +1,2 @@
-command script import /Users/songruiwang/GitHub/LLDB-chisel/fblldb.py
-command script import /Users/songruiwang/GitHub/LLDB-debugging-sessions/lldb_commands/dslldb.py
+command script import /Users/songruiwang/GitHub/dotfile/chisel/fblldb.py
+command script import /Users/songruiwang/GitHub/dotfile/LLDB/lldb_commands/dslldb.py

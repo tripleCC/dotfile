@@ -1,3 +1,9 @@
 [submodule "Tool/tmux-resurrect"]
 	path = Tool/tmux-resurrect
 	url = https://github.com/tmux-plugins/tmux-resurrect.git
+[submodule "LLDB"]
+	path = LLDB
+	url = https://github.com/DerekSelander/LLDB.git
+[submodule "chisel"]
+	path = chisel
+	url = https://github.com/facebook/chisel.git
